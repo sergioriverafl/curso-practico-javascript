@@ -8,7 +8,7 @@
 
 
 - Primer paso: Definir las formulas
-- Segunto paso: Implemetar las formuals en JavaScript
+- Segundo paso: Implemetar las formulas en JavaScript
 - Tercer paso: Crear funciones
 - Cuarto paso: Integrar JavaScrpt con HTML
 
